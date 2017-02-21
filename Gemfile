@@ -8,5 +8,8 @@ gem "erubis"
 gem "minitest"
 gem "redcarpet"
 gem "bcrypt"
+gem "activerecord"
+gem "sinatra-activerecord"
+gem "pg"
 
 ruby "2.3.3"
